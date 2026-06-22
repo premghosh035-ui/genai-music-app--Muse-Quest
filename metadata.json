@@ -1,0 +1,6 @@
+{
+  "name": "Muse Quest",
+  "description": "An interactive, mobile-first music engagement and discovery app that offers personalized playlist recommendations, music-style quizzes, personalized taste profiles, interactive insights, and dynamic listening history tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
